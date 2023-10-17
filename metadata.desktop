@@ -1,0 +1,8 @@
+[SddmGreeterTheme]
+Name=nullraum
+Type=sddm-theme
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=nullraum
+Theme-API=2.0
